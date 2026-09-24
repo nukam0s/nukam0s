@@ -2,46 +2,42 @@
 
 A software tinkerer, bot builder, and automation enthusiast exploring IRC, Discord, AI, and game/project tooling.
 
-## Featured projects
+## Projects
+
+The descriptions below are brief summaries based on the repository names and any public metadata available. Some private repositories do not expose a public description.
 
 ### Public repositories
 
-- [Pollinations](https://github.com/nukam0s/Pollinations) — Limnoria plugin using pollinations.ai
-- [zoo-balance](https://github.com/nukam0s/zoo-balance) — Personal project with a public-facing repository
-- [IdleGame-ranking](https://github.com/nukam0s/IdleGame-ranking) — IdleGame ranking project
-- [allinone](https://github.com/nukam0s/allinone) — All-in-one eggdrop Tcl script
+- [Pollinations](https://github.com/nukam0s/Pollinations) — Limnoria plugin for Pollinations AI integrations.
+- [zoo-balance](https://github.com/nukam0s/zoo-balance) — Zoo/resource-balance project or game-related tool.
+- [IdleGame-ranking](https://github.com/nukam0s/IdleGame-ranking) — Idle game leaderboard and ranking project.
+- [allinone](https://github.com/nukam0s/allinone) — All-in-one Eggdrop Tcl script bundle.
 
 ### Private repositories
 
-- [nuke-irc-client](https://github.com/nukam0s/nuke-irc-client) — IRC client project
-- [rsem](https://github.com/nukam0s/rsem) — Private repository
-- [ponto](https://github.com/nukam0s/ponto) — Private repository
-- [plataforma-denuncias](https://github.com/nukam0s/plataforma-denuncias) — Private repository
-- [espnbot](https://github.com/nukam0s/espnbot) — Private bot/repo
-- [pybot](https://github.com/nukam0s/pybot) — Private Python bot project
-- [idlegame](https://github.com/nukam0s/idlegame) — Private game repository
-- [o-Meu-Saldo](https://github.com/nukam0s/o-Meu-Saldo) — Private application/project
-- [RSEM-Fisio](https://github.com/nukam0s/RSEM-Fisio) — Private project
-- [aibot](https://github.com/nukam0s/aibot) — Private AI bot project
-- [relaybot](https://github.com/nukam0s/relaybot) — Private bot project
-- [plexbot](https://github.com/nukam0s/plexbot) — Private bot repository
-- [jupe](https://github.com/nukam0s/jupe) — Private repository
-- [RSEM-Escala](https://github.com/nukam0s/RSEM-Escala) — Private repository
-- [Pollinations-local-private-app](https://github.com/nukam0s/Pollinations-local-private-app) — Private app/project
-- [seerr-discord-bot](https://github.com/nukam0s/seerr-discord-bot) — Discord bot for Seerr with separate TV/movie quotas
-- [gulag](https://github.com/nukam0s/gulag) — Private repository
-- [newsbot](https://github.com/nukam0s/newsbot) — Private bot project
-- [velho](https://github.com/nukam0s/velho) — Private repository
-- [carequest_web](https://github.com/nukam0s/carequest_web) — Private web project
-- [carequest](https://github.com/nukam0s/carequest) — Private project
-- [futcom](https://github.com/nukam0s/futcom) — Private repository
-- [la](https://github.com/nukam0s/la) — Private repository
-
-## Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nukam0s&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
+- [nuke-irc-client](https://github.com/nukam0s/nuke-irc-client) — IRC client project.
+- [rsem](https://github.com/nukam0s/rsem) — No public description; likely a private utility, tool, or internal project.
+- [ponto](https://github.com/nukam0s/ponto) — No public description; likely a business or tracking application.
+- [plataforma-denuncias](https://github.com/nukam0s/plataforma-denuncias) — Reporting/complaint platform project.
+- [espnbot](https://github.com/nukam0s/espnbot) — No public description; likely an ESPN-related automation or bot.
+- [pybot](https://github.com/nukam0s/pybot) — Python bot project.
+- [idlegame](https://github.com/nukam0s/idlegame) — Private idle-game project.
+- [o-Meu-Saldo](https://github.com/nukam0s/o-Meu-Saldo) — Personal finance or balance tracking app.
+- [RSEM-Fisio](https://github.com/nukam0s/RSEM-Fisio) — No public description; likely a health/physio-related project.
+- [aibot](https://github.com/nukam0s/aibot) — AI-powered bot project.
+- [relaybot](https://github.com/nukam0s/relaybot) — Bot for relaying or forwarding content between systems.
+- [plexbot](https://github.com/nukam0s/plexbot) — Plex-related bot or automation tool.
+- [jupe](https://github.com/nukam0s/jupe) — No public description; likely a private utility or service.
+- [RSEM-Escala](https://github.com/nukam0s/RSEM-Escala) — No public description; likely a private management or scheduling project.
+- [Pollinations-local-private-app](https://github.com/nukam0s/Pollinations-local-private-app) — Local/private app built around Pollinations functionality.
+- [seerr-discord-bot](https://github.com/nukam0s/seerr-discord-bot) — Discord bot for Seerr media requests with separate TV/movie quotas.
+- [gulag](https://github.com/nukam0s/gulag) — No public description; likely a private service or utility.
+- [newsbot](https://github.com/nukam0s/newsbot) — News aggregation or automation bot.
+- [velho](https://github.com/nukam0s/velho) — No public description; likely a private utility or project.
+- [carequest_web](https://github.com/nukam0s/carequest_web) — Web frontend for a care/request system.
+- [carequest](https://github.com/nukam0s/carequest) — Backend or service for care/request workflows.
+- [futcom](https://github.com/nukam0s/futcom) — No public description; likely a private system or tool.
+- [la](https://github.com/nukam0s/la) — No public description; likely a small private utility or project.
 
 ## Stack / interests
 
@@ -55,8 +51,7 @@ A software tinkerer, bot builder, and automation enthusiast exploring IRC, Disco
 ## Contact
 
 - GitHub: https://github.com/nukam0s
-- Email: available on request
 
 ## Note
 
-Some repositories are private, so only the project names and public metadata are shown here.
+Some repositories are private, so only a brief, inferred summary is shown here.

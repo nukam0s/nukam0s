@@ -55,7 +55,7 @@ A factual summary of every repository I own — 5 public and 23 private — grou
 
 - Python
 - Discord bots
-- IRC tools
+- IRC bots/tools
 - AI / automation workflows
 - Game projects
 - Small utility services and scripts

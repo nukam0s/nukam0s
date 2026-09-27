@@ -4,7 +4,7 @@ A factual summary of every repository I own — 5 public and 23 private — grou
 
 ### Public repositories
 
-**IRC bots & plugins**
+**IRC scripts & plugins**
 
 - [Pollinations](https://github.com/nukam0s/Pollinations) — Limnoria plugin that uses pollinations.ai.
 - [allinone](https://github.com/nukam0s/allinone) — All-in-one Eggdrop Tcl script.

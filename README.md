@@ -54,7 +54,6 @@
 - [RSEM-Escala](https://github.com/nukam0s/RSEM-Escala) — Flutter app showing the RSEM nursing shift roster from Google Sheets, with offline cache, shift reminders and quick notes.
 - [RSEM-Fisio](https://github.com/nukam0s/RSEM-Fisio) — Offline Flask app for a physiotherapy clinic: appointment calendar, patient records, price list and PDF invoicing.
 - [videosatellite](https://github.com/nukam0s/videosatellite) — Framework-free PHP 8/SQLite website and backoffice CMS for a Sesimbra telecom/security installer, incl. solar simulator and quotes.
-=======
 - [carequest](https://github.com/nukam0s/carequest) — Discord bot for care-home residents ("CareQuest"), with SQLite persistence and a services layer plus config/data folders.
 - [plexbot](https://github.com/nukam0s/plexbot) — Discord bot (discord.py) integrating Radarr/Sonarr and Google Sheets via service accounts to track/announce movie and series releases; TMDB enrichment.
 - [rsem](https://github.com/nukam0s/rsem) — Discord bot for shift scheduling ("Residência Sénior Egas Moniz"): reads/writes Google Sheets (gspread), handles shift swaps/requests/reminders, OpenAI-assisted, exports to Excel.
@@ -69,7 +68,6 @@
 - [plataforma-denuncias](https://github.com/nukam0s/plataforma-denuncias) — "Plataforma Envelhecer com Qualidade": web platform for anonymous reporting of elder abuse/neglect (Node.js 20, Express 4, EJS, SQLite via sql.js, helmet/rate-limit/CSRF) with a hidden admin area.
 - [RSEM-Escala](https://github.com/nukam0s/RSEM-Escala) — RSEM Escala: Android Flutter app showing the shift roster for Residência Sénior Egas Moniz, synced from Google Sheets, with personal view, "who's working now", reminders and offline support.
 - [RSEM-Fisio](https://github.com/nukam0s/RSEM-Fisio) — "Fisioterapia Egas Moniz": local web app to manage a physiotherapy outpatient clinic (bookings, patients, pricing, treatments, billing/periodic reports); runs on Windows via localhost, offline, portable runtime.
->>>>>>> b64a31ffff3defcf5198ed93626b059f1b966d37
 
 **Tools & scripts**
 

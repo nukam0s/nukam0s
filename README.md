@@ -1,7 +1,5 @@
 ## Projects
 
-A deep source-level audit of every repository I own — **31 repositories (5 public, 26 private)** — grouped by visibility and purpose. Names link directly to each repo.
-
 ### Public repositories
 
 **IRC scripts & plugins**

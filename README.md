@@ -36,7 +36,6 @@
 
 **Discord bots**
 
-<<<<<<< HEAD
 - [carequest](https://github.com/nukam0s/carequest) — Discord RPG economy bot in Portuguese: casino, stock market, shop, missions, achievements, raid bosses and AI-generated questions.
 - [plexbot](https://github.com/nukam0s/plexbot) — Discord bot for TMDB lookups, Radarr/Sonarr release alerts and Google Sheets payment tracking.
 - [rsem](https://github.com/nukam0s/rsem) — Discord bot for nursing teams: shift schedules, reaction-based swaps, reminders, resident clinical logs and AI shift summaries.

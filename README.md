@@ -37,25 +37,41 @@
 
 **Discord bots**
 
-- [carequest](https://github.com/nukam0s/carequest) — Discord RPG economy bot (PT): casino, stock market, shop, missions, achievements, raid bosses and AI-generated questions.
-- [plexbot](https://github.com/nukam0s/plexbot) — Discord bot for TMDB lookups, Radarr/Sonarr helpers and Google Sheets payment reading.
-- [rsem](https://github.com/nukam0s/rsem) — Discord bot for nursing teams: shifts, swaps, requests, reminders, resident clinical logs and AI handover summaries.
-- [seerr-discord-bot](https://github.com/nukam0s/seerr-discord-bot) — Discord Seerr bot (discord.py): film/series requests with Discord ID ↔ Seerr account linking and separate weekly TV/movie quotas.
-- [velho](https://github.com/nukam0s/velho) — discord.py persona bot storing user facts and relationships, summarizing channels and replying via Pollinations/mistral.
+<<<<<<< HEAD
+- [carequest](https://github.com/nukam0s/carequest) — Discord RPG economy bot in Portuguese: casino, stock market, shop, missions, achievements, raid bosses and AI-generated questions.
+- [plexbot](https://github.com/nukam0s/plexbot) — Discord bot for TMDB lookups, Radarr/Sonarr release alerts and Google Sheets payment tracking.
+- [rsem](https://github.com/nukam0s/rsem) — Discord bot for nursing teams: shift schedules, reaction-based swaps, reminders, resident clinical logs and AI shift summaries.
+- [seerr-discord-bot](https://github.com/nukam0s/seerr-discord-bot) — Discord slash-command front end for Seerr: search/request films and series, quotas, account linking and admin sync.
+- [velho](https://github.com/nukam0s/velho) — Discord AI persona bot on Pollinations/mistral storing user facts and relationships, summarizing channels and replying human-like.
 
 **Apps & web**
 
-- [agenda](https://github.com/nukam0s/agenda) — Offline Android diary/expense app ("Agenda de Valores"): Compose, Room, Hilt, reminders, PIN/biometric lock and CSV/PDF export.
-- [carequest_web](https://github.com/nukam0s/carequest_web) — Single-file Flask dashboard over the CareQuest SQLite DB: achievements catalogue and player/market stats.
-- [lezirias](https://github.com/nukam0s/lezirias) — Next.js 16 + Prisma website and admin CMS for Residência Sénior Lezírias, with next-auth, Tailwind and Docker deploy.
-- [mural-vivo](https://github.com/nukam0s/mural-vivo) — "Mural Vivo" therapeutic interactive projection game for senior homes (botanical garden scene, operator panel, offline Vite/Tauri).
-- [nuke-irc-client](https://github.com/nukam0s/nuke-irc-client) — Windows IRC client (PySide6): multiple servers, ZNC bouncers, IRCv3 server-time, themes and channel monitor.
-- [o-Meu-Saldo](https://github.com/nukam0s/o-Meu-Saldo) — Flutter personal-finance app: dashboard, monthly cycles, category budgets and savings pot.
-- [plataforma-denuncias](https://github.com/nukam0s/plataforma-denuncias) — Anonymous elder-abuse reporting site (Express/EJS/sql.js, CSRF hardening) with a hidden admin area.
-- [Pollinations-local-private-app](https://github.com/nukam0s/Pollinations-local-private-app) — Single-file browser client for the Pollinations API: chat, image/video generation, gallery, model pricing and balance.
-- [RSEM-Escala](https://github.com/nukam0s/RSEM-Escala) — Flutter Android app showing the RSEM shift roster, synced from Google Sheets.
-- [RSEM-Fisio](https://github.com/nukam0s/RSEM-Fisio) — Local Flask app for the outpatient physiotherapy clinic: bookings, patients, prices, billing and reports (offline).
-- [videosatellite](https://github.com/nukam0s/videosatellite) — Vídeo Satélite (Sesimbra) website and backoffice CMS: pure PHP 8, SQLite, PHPMailer and Tailwind.
+- [agenda](https://github.com/nukam0s/agenda) — Offline Android personal diary/expense agenda in Kotlin: Room, Compose, reminders, PIN/biometric lock, CSV/PDF export and widget.
+- [carequest_web](https://github.com/nukam0s/carequest_web) — Single-file Flask dashboard over the CareQuest SQLite DB: user XP, portfolio value, market and jackpot statistics.
+- [lezirias](https://github.com/nukam0s/lezirias) — Next.js 16 + Prisma/SQLite website and admin CMS for the Residência Sénior Lezírias care home, with news, gallery and contacts.
+- [nuke-irc-client](https://github.com/nukam0s/nuke-irc-client) — Windows IRC client in PySide6 with multi-server, ZNC playback, themes, channel monitor, DCC and offline translation.
+- [o-Meu-Saldo](https://github.com/nukam0s/o-Meu-Saldo) — Flutter personal-finance app with monthly cycles, category budgets, savings goal, pie charts, profiles and SQLite storage.
+- [plataforma-denuncias](https://github.com/nukam0s/plataforma-denuncias) — Express/EJS site for anonymous elder-abuse reports, with hidden admin area, CSRF/rate-limit hardening and sql.js storage.
+- [Pollinations-local-private-app](https://github.com/nukam0s/Pollinations-local-private-app) — Single-file browser client for the Pollinations API: chat, image/video generation, gallery, model pricing and balance checks.
+- [RSEM-Escala](https://github.com/nukam0s/RSEM-Escala) — Flutter app showing the RSEM nursing shift roster from Google Sheets, with offline cache, shift reminders and quick notes.
+- [RSEM-Fisio](https://github.com/nukam0s/RSEM-Fisio) — Offline Flask app for a physiotherapy clinic: appointment calendar, patient records, price list and PDF invoicing.
+- [videosatellite](https://github.com/nukam0s/videosatellite) — Framework-free PHP 8/SQLite website and backoffice CMS for a Sesimbra telecom/security installer, incl. solar simulator and quotes.
+=======
+- [carequest](https://github.com/nukam0s/carequest) — Discord bot for care-home residents ("CareQuest"), with SQLite persistence and a services layer plus config/data folders.
+- [plexbot](https://github.com/nukam0s/plexbot) — Discord bot (discord.py) integrating Radarr/Sonarr and Google Sheets via service accounts to track/announce movie and series releases; TMDB enrichment.
+- [rsem](https://github.com/nukam0s/rsem) — Discord bot for shift scheduling ("Residência Sénior Egas Moniz"): reads/writes Google Sheets (gspread), handles shift swaps/requests/reminders, OpenAI-assisted, exports to Excel.
+- [seerr-discord-bot](https://github.com/nukam0s/seerr-discord-bot) — Bot Discord para Seerr (discord.py): Request movies/tvshows linking Discord ID ↔ Seerr account bilingue.
+- [velho](https://github.com/nukam0s/velho) — Small Discord bot prototype/legacy experiment (bot.py); an early, abandoned iteration alongside the AI IRC bots.
+
+**Apps & web**
+
+- [carequest_web](https://github.com/nukam0s/carequest_web) — Flask web companion to CareQuest, serving a SQLite-backed achievements/stats page.
+- [nuke-irc-client](https://github.com/nukam0s/nuke-irc-client) — Nuke IRC Client: Windows IRC client in Python/PySide6 supporting multiple servers, ZNC bouncers, IRCv3 server-time, themes, channel monitor and ignore/notify lists & more.
+- [o-Meu-Saldo](https://github.com/nukam0s/o-Meu-Saldo) — "O Meu Saldo": Flutter (Android/iOS/Web) personal-finance app with dashboard, monthly cycles, category budgets and a savings pot.
+- [plataforma-denuncias](https://github.com/nukam0s/plataforma-denuncias) — "Plataforma Envelhecer com Qualidade": web platform for anonymous reporting of elder abuse/neglect (Node.js 20, Express 4, EJS, SQLite via sql.js, helmet/rate-limit/CSRF) with a hidden admin area.
+- [RSEM-Escala](https://github.com/nukam0s/RSEM-Escala) — RSEM Escala: Android Flutter app showing the shift roster for Residência Sénior Egas Moniz, synced from Google Sheets, with personal view, "who's working now", reminders and offline support.
+- [RSEM-Fisio](https://github.com/nukam0s/RSEM-Fisio) — "Fisioterapia Egas Moniz": local web app to manage a physiotherapy outpatient clinic (bookings, patients, pricing, treatments, billing/periodic reports); runs on Windows via localhost, offline, portable runtime.
+>>>>>>> b64a31ffff3defcf5198ed93626b059f1b966d37
 
 **Tools & scripts**
 

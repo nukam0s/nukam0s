@@ -13,6 +13,7 @@
 
 **Dev tools**
 
+- [nuke-s-file-manager](https://github.com/nukam0s/nuke-s-file-manager) — Dual-pane, keyboard-first Total Commander-style file manager as a portable single-exe Electron app for Windows.
 - [zoo-balance](https://github.com/nukam0s/zoo-balance) — VS Code extension showing Zoo Code balance, usage analytics and cache savings in the status bar.
 
 **Profile**
@@ -62,6 +63,7 @@
 - [iptv-checker](https://github.com/nukam0s/iptv-checker) — Windows CLI + GUI tool validating Xtream Codes accounts and M3U stream availability.
 - [mapa-de-ferias](https://github.com/nukam0s/mapa-de-ferias) — Excel holiday-rotation maps: 2027 AOAAM template plus a preserved 2026 replica.
 - [ponto](https://github.com/nukam0s/ponto) — Console exporter that logs into the DIMEP Kairos timeclock portal and writes all employees' punches to one Excel sheet.
+- [rsem-banhos-auto-equipas](https://github.com/nukam0s/rsem-banhos-auto-equipas) — Google Apps Script that auto-plans bath schedules for 5 care-home teams from the shift roster.
 - [vps-sentinel](https://github.com/nukam0s/vps-sentinel) — Portable agentless Windows VPS monitor: FastAPI API, asyncssh collection, ping engine, SQLite vault and notifier.
 
 ## Stack / interests
@@ -75,4 +77,4 @@
 
 ## Note
 
-Repository counts and descriptions come from a deep source-level audit of each project — READMEs, manifests, entry points, database schemas, and route/command definitions — rather than from GitHub metadata alone. All 36 repositories (5 public, 31 private) are original work: none is archived and none is a fork.
+Repository counts and descriptions come from a deep source-level audit of each project — READMEs, manifests, entry points, database schemas, and route/command definitions — rather than from GitHub metadata alone. All 38 repositories (6 public, 32 private) are original work: none is archived and none is a fork.
